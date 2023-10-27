@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .blog-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+  }
+  
+  .blog-panel {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  .blog-panel img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .blog-panel a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  

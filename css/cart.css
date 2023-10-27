@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.cart-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.product {
+  text-align: center;
+}
+
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.add-to-cart {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.cart {
+  margin: 20px;
+  text-align: center;
+}
+
